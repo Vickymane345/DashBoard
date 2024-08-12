@@ -1,0 +1,27 @@
+
+@media (max-width:767px) {
+  
+    nav ul{
+        position: fixed;
+        top:0;
+        left: 0;
+        background: lightblue;
+        z-index: 100;
+        bottom: 0;
+        width: 200px;
+        padding-top: 40px;
+        transition: 0.5s;
+        
+        
+    }
+    nav ul li{
+        display: block;
+        align-items: center;
+        padding: 9px;
+    }
+
+
+    .hide-mobile-menu{
+        left: -200px;
+    }
+    }
