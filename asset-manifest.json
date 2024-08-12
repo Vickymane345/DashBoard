@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/DashBoard%20/static/css/main.39100029.css",
-    "main.js": "/DashBoard%20/static/js/main.d90f7ed4.js",
-    "static/media/profile_pic-removebg-preview.png": "/DashBoard%20/static/media/profile_pic-removebg-preview.15f0f1ad4e28f1b28472.png",
-    "static/media/HD-wallpaper-ian-somerhalder-vampire-diaries-black-man-damon-tv-series-face-blue-eyes-actor.jpg": "/DashBoard%20/static/media/HD-wallpaper-ian-somerhalder-vampire-diaries-black-man-damon-tv-series-face-blue-eyes-actor.f13e30c4983da85bf4d2.jpg",
-    "static/media/profile pic.jpg": "/DashBoard%20/static/media/profile pic.3c4f91e50cd916b45f37.jpg",
-    "static/media/StarbucksLogo.png": "/DashBoard%20/static/media/StarbucksLogo.3fc833fd462c53a99713.png",
-    "static/media/McdonaldLogo.png": "/DashBoard%20/static/media/McdonaldLogo.384d732175929b49f890.png",
-    "static/media/UpsLogo.png": "/DashBoard%20/static/media/UpsLogo.6ead5b98b85b8424b33a.png",
-    "static/media/mastercard.png": "/DashBoard%20/static/media/mastercard.f5d5099411c85a0ecdf3.png",
-    "static/media/WalmartLogo.png": "/DashBoard%20/static/media/WalmartLogo.6541a4ef1aa726195b4d.png",
-    "static/media/NetflixLogo.png": "/DashBoard%20/static/media/NetflixLogo.9cb5e6694284f3f35de9.png",
-    "static/media/hand.png": "/DashBoard%20/static/media/hand.36e399b7b7e71b37ed11.png",
-    "static/media/GoogleLogo.png": "/DashBoard%20/static/media/GoogleLogo.ab202987eeba4b69c1e8.png",
-    "static/media/space.png": "/DashBoard%20/static/media/space.e0ad4b403ac427a64a2e.png",
-    "static/media/amazon.png": "/DashBoard%20/static/media/amazon.b10f107a0e67162da339.png",
-    "static/media/family.jpg": "/DashBoard%20/static/media/family.e5580def909a66dcfd37.jpg",
-    "index.html": "/DashBoard%20/index.html",
-    "main.39100029.css.map": "/DashBoard%20/static/css/main.39100029.css.map",
-    "main.d90f7ed4.js.map": "/DashBoard%20/static/js/main.d90f7ed4.js.map"
+    "main.css": "/github.io/DashBoard%20/static/css/main.39100029.css",
+    "main.js": "/github.io/DashBoard%20/static/js/main.f78baf19.js",
+    "static/media/profile_pic-removebg-preview.png": "/github.io/DashBoard%20/static/media/profile_pic-removebg-preview.15f0f1ad4e28f1b28472.png",
+    "static/media/HD-wallpaper-ian-somerhalder-vampire-diaries-black-man-damon-tv-series-face-blue-eyes-actor.jpg": "/github.io/DashBoard%20/static/media/HD-wallpaper-ian-somerhalder-vampire-diaries-black-man-damon-tv-series-face-blue-eyes-actor.f13e30c4983da85bf4d2.jpg",
+    "static/media/profile pic.jpg": "/github.io/DashBoard%20/static/media/profile pic.3c4f91e50cd916b45f37.jpg",
+    "static/media/StarbucksLogo.png": "/github.io/DashBoard%20/static/media/StarbucksLogo.3fc833fd462c53a99713.png",
+    "static/media/McdonaldLogo.png": "/github.io/DashBoard%20/static/media/McdonaldLogo.384d732175929b49f890.png",
+    "static/media/UpsLogo.png": "/github.io/DashBoard%20/static/media/UpsLogo.6ead5b98b85b8424b33a.png",
+    "static/media/mastercard.png": "/github.io/DashBoard%20/static/media/mastercard.f5d5099411c85a0ecdf3.png",
+    "static/media/WalmartLogo.png": "/github.io/DashBoard%20/static/media/WalmartLogo.6541a4ef1aa726195b4d.png",
+    "static/media/NetflixLogo.png": "/github.io/DashBoard%20/static/media/NetflixLogo.9cb5e6694284f3f35de9.png",
+    "static/media/hand.png": "/github.io/DashBoard%20/static/media/hand.36e399b7b7e71b37ed11.png",
+    "static/media/GoogleLogo.png": "/github.io/DashBoard%20/static/media/GoogleLogo.ab202987eeba4b69c1e8.png",
+    "static/media/space.png": "/github.io/DashBoard%20/static/media/space.e0ad4b403ac427a64a2e.png",
+    "static/media/amazon.png": "/github.io/DashBoard%20/static/media/amazon.b10f107a0e67162da339.png",
+    "static/media/family.jpg": "/github.io/DashBoard%20/static/media/family.e5580def909a66dcfd37.jpg",
+    "index.html": "/github.io/DashBoard%20/index.html",
+    "main.39100029.css.map": "/github.io/DashBoard%20/static/css/main.39100029.css.map",
+    "main.f78baf19.js.map": "/github.io/DashBoard%20/static/js/main.f78baf19.js.map"
   },
   "entrypoints": [
     "static/css/main.39100029.css",
-    "static/js/main.d90f7ed4.js"
+    "static/js/main.f78baf19.js"
   ]
 }
